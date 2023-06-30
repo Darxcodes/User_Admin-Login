@@ -1,1 +1,1 @@
-A user admin login page where both the admin and the user can switch roles by redirecting to each others login page
+A user-admin login page where both the user and the admin can switch roles by redirecting to each others login pages
